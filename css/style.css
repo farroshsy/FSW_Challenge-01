@@ -114,7 +114,7 @@ body {
 }
 
 .why-us {
-  padding: 6rem 0;
+  padding: 6rem 0 0 0;
 }
 
 .why-us h2 {
@@ -343,7 +343,7 @@ body {
 }
 
 footer {
-  margin-top: 8rem;
+  margin-top: 0rem;
   padding: 2rem 0 2rem 0;
   background-color: #fff;
 }
